@@ -37,16 +37,6 @@ RAPTOR (diagramas de flujo)
 Git y GitHub
 Programación estructurada
 
-Cómo Ejecutar el Programa
-
-Instalar Python 3
-
-Descargar o clonar el repositorio
-
-Entrar a la carpeta src
-
-Ejecutar el archivo main.py con el comando: python main.py
-
 Documentación del Proyecto  
 Toda la documentación formal del proyecto se encuentra en la carpeta “documentacion” en el archivo proyecto_final.pdf.
 
